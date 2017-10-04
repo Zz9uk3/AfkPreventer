@@ -1,0 +1,24 @@
+C:\Users\Ano\Desktop\Tools\WoW\Bots\AntiAfk\AntiAfk\bin\Debug\AntiAfk.exe.config
+C:\Users\Ano\Desktop\Tools\WoW\Bots\AntiAfk\AntiAfk\bin\Debug\AntiAfk.exe
+C:\Users\Ano\Desktop\Tools\WoW\Bots\AntiAfk\AntiAfk\bin\Debug\AntiAfk.pdb
+C:\Users\Ano\Desktop\Tools\WoW\Bots\AntiAfk\AntiAfk\bin\Debug\BlackMagic.dll
+C:\Users\Ano\Desktop\Tools\WoW\Bots\AntiAfk\AntiAfk\bin\Debug\fasmdll_managed.dll
+C:\Users\Ano\Desktop\Tools\WoW\Bots\AntiAfk\AntiAfk\bin\Debug\BlackMagic.pdb
+C:\Users\Ano\Desktop\Tools\WoW\Bots\AntiAfk\AntiAfk\bin\Debug\BlackMagic.xml
+C:\Users\Ano\Desktop\Tools\WoW\Bots\AntiAfk\AntiAfk\bin\Debug\fasmdll_managed.pdb
+C:\Users\Ano\Desktop\Tools\WoW\Bots\AntiAfk\AntiAfk\obj\x86\Debug\AntiAfk.csprojResolveAssemblyReference.cache
+C:\Users\Ano\Desktop\Tools\WoW\Bots\AntiAfk\AntiAfk\obj\x86\Debug\AntiAfk.exe
+C:\Users\Ano\Desktop\Tools\WoW\Bots\AntiAfk\AntiAfk\obj\x86\Debug\AntiAfk.pdb
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\AntiAfk\AntiAfk\bin\Debug\AntiAfk.exe.config
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\AntiAfk\AntiAfk\obj\x86\Debug\AntiAfk.exe
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\AntiAfk\AntiAfk\obj\x86\Debug\AntiAfk.pdb
+C:\Users\Ano\Documents\Visual Studio 2013\Projects\AntiAfk\AntiAfk\bin\Debug\AntiAfk.exe.config
+C:\Users\Ano\Documents\Visual Studio 2013\Projects\AntiAfk\AntiAfk\obj\x86\Debug\AntiAfk.exe
+C:\Users\Ano\Documents\Visual Studio 2013\Projects\AntiAfk\AntiAfk\obj\x86\Debug\AntiAfk.pdb
+C:\Users\Ano\Documents\Visual Studio 2013\Projects\AntiAfk\AntiAfk\bin\Debug\AntiAfk.exe
+C:\Users\Ano\Documents\Visual Studio 2013\Projects\AntiAfk\AntiAfk\bin\Debug\AntiAfk.pdb
+C:\Users\Ano\Documents\Visual Studio 2013\Projects\AntiAfk\AntiAfk\bin\Debug\fasmdll_managed.dll
+C:\Users\Ano\Documents\Visual Studio 2013\Projects\AntiAfk\AntiAfk\bin\Debug\BlackMagic.pdb
+C:\Users\Ano\Documents\Visual Studio 2013\Projects\AntiAfk\AntiAfk\bin\Debug\BlackMagic.xml
+C:\Users\Ano\Documents\Visual Studio 2013\Projects\AntiAfk\AntiAfk\bin\Debug\fasmdll_managed.pdb
+C:\Users\Ano\Documents\Visual Studio 2013\Projects\AntiAfk\AntiAfk\obj\x86\Debug\AntiAfk.csprojResolveAssemblyReference.cache
